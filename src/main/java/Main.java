@@ -1,22 +1,25 @@
 public class Main {
     public static void main(String[] args) {
-        // Вывод строки на консоль
-        System.out.println("Hello, World!");
+        CoffeeShop coffeeShop = CoffeeShop.getInstance();
 
-        // Объявление переменных
-        int a = 10;
-        int b = 20;
+        CoffeeFactory coffeeFactory = new CoffeeFactory();
+        Coffee espresso = coffeeFactory.createCoffee("Espresso");
+        espresso.prepare();
 
-        // Выполнение базовых операций
-        int sum = a + b;
-        int difference = a - b;
-        int product = a * b;
-        int quotient = b / a;
+        IngredientFactory latteFactory = new LatteIngredientFactory();
+        Milk milk = latteFactory.createMilk();
+        Syrup syrup = latteFactory.createSyrup();
 
-        // Вывод результатов
-        System.out.println("Сумма: " + sum);
-        System.out.println("Разница: " + difference);
-        System.out.println("Произведение: " + product);
-        System.out.println("Частное: " + quotient);
+        CoffeeOrder order1 = new CoffeeOrder(espresso, milk, syrup);
+        order1.displayOrder();
+
+        CoffeeOrder order2 = order1.clone();
+        order2.displayOrder();
+
+        CoffeeBuilder builder = new CoffeeBuilder();
+        CoffeeOrder customOrder = builder.setCoffee(espresso).setMilk(new AlmondMilk()).setSyrup(new VanillaSyrup()).build();
+        customOrder.displayOrder();
+
+        coffeeShop.takeOrder(customOrder.getCoffee());
     }
 }
