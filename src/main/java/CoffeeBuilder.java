@@ -1,3 +1,4 @@
+//используется паттерн: "Строитель"
 class CoffeeBuilder {
     private Coffee coffee;
     private Milk milk;

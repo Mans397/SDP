@@ -1,3 +1,4 @@
+// здесь используется фабричный метод
 abstract class Coffee {
     protected String name;
 

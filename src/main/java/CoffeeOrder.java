@@ -1,3 +1,4 @@
+// юзаем прототип для клонирования обьекта
 public class CoffeeOrder implements Cloneable {
     private Coffee coffee;
     private Milk milk;
