@@ -1,3 +1,5 @@
+package Assignment1;
+
 //используется паттерн: "Строитель"
 class CoffeeBuilder {
     private Coffee coffee;

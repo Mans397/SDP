@@ -1,3 +1,5 @@
+package Assignment1;
+
 class LatteIngredientFactory implements IngredientFactory {
     @Override
     public Milk createMilk() {

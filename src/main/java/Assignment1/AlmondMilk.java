@@ -1,5 +1,8 @@
+package Assignment1;
+
 class AlmondMilk implements Milk {
     public String getType() {
-        return "Almond Milk";
+        return "Almond Assignment1.Milk";
     }
 }
+

@@ -1,3 +1,5 @@
+package Assignment1;
+
 //здесь юзаю паттерн одиночку
 public class CoffeeShop {
     private static CoffeeShop instance;

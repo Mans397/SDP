@@ -1,3 +1,5 @@
+package Assignment1;
+
 // юзаем прототип для клонирования обьекта
 public class CoffeeOrder implements Cloneable {
     private Coffee coffee;
@@ -20,7 +22,7 @@ public class CoffeeOrder implements Cloneable {
     }
 
     public void displayOrder() {
-        System.out.println("Coffee: " + coffee.getName() + ", Milk: " + milk.getType() + ", Syrup: " + syrup.getFlavor());
+        System.out.println("Assignment1.Coffee: " + coffee.getName() + ", Assignment1.Milk: " + milk.getType() + ", Assignment1.Syrup: " + syrup.getFlavor());
     }
 
     public Coffee getCoffee() {

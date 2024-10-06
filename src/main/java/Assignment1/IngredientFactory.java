@@ -1,3 +1,5 @@
+package Assignment1;
+
 //абстрактная фабрика
 interface IngredientFactory {
     Milk createMilk();

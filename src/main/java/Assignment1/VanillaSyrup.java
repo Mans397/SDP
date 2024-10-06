@@ -1,5 +1,7 @@
+package Assignment1;
+
 class VanillaSyrup implements Syrup {
     public String getFlavor() {
-        return "Vanilla Syrup";
+        return "Vanilla Assignment1.Syrup";
     }
 }
