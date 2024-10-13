@@ -1,0 +1,936 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"dd282760-06e3-415d-a52c-d0befb4c183a\" name=\"Changes\" comment=\"assignment 1\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Coffee.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Coffee.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/CoffeeBuilder.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/CoffeeBuilder.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/CoffeeOrder.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/CoffeeOrder.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/CoffeeShop.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/CoffeeShop.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/IngredientFactory.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/IngredientFactory.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Milk.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Milk.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Syrup.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Syrup.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"KubernetesApiProvider\">{\n  &quot;isMigrated&quot;: true\n}</component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2mEvJWMEtTXOIvybFQXvtaGO6Q1\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Main.executor\": \"Run\",\n    \"Application.My configuration.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/mansurserikov/AITU/javaProject/SDP_serikov/src\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"onboarding.tips.debug.path\": \"/Users/mansurserikov/AITU/javaProject/SDP_serikov/src/main/java/org/example/Main.java\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src\" />\n    </key>\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\n      <recent name=\"\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"dd282760-06e3-415d-a52c-d0befb4c183a\" name=\"Changes\" comment=\"\" />\n      <created>1726654480243</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1726654480243</updated>\n      <workItem from=\"1726654481544\" duration=\"1718000\" />\n      <workItem from=\"1727523142427\" duration=\"947000\" />\n      <workItem from=\"1727787345105\" duration=\"5728000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"test1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1726654508978</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1726654508978</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"assignment 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1727803770813</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1727803770813</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"test1\" />\n    <MESSAGE value=\"assignment 1\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"assignment 1\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/.idea/workspace.xml	(date 1728233048120)
+@@ -4,15 +4,38 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="dd282760-06e3-415d-a52c-d0befb4c183a" name="Changes" comment="assignment 1">
++    <list default="true" id="dd282760-06e3-415d-a52c-d0befb4c183a" name="Changes" comment="добавил комменты">
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Adapter/PDFDocument.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Adapter/PDFDocumentAdapter.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Bridge/DocumentRenderer.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Bridge/HighlightRenderEngine.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Bridge/RenderEngine.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Bridge/SimpleDocumentRenderer.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Bridge/SimpleRenderEngine.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Composite/DocumentGroup.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Decorator/DocumentDecorator.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Decorator/WatermarkDecorator.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Document.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Facade/DocumentFacade.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Flyweight/DocumentFactory.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/Proxy/ProxyDocument.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment2/RealDocument.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Coffee.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoffeeBuilder.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoffeeOrder.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoffeeShop.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/IngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IngredientFactory.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Milk.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Syrup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Syrup.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/AlmondMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/AlmondMilk.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/Coffee.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/CoffeeBuilder.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/CoffeeFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/CoffeeOrder.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/CoffeeShop.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/Espresso.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/IngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/IngredientFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Latte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/Latte.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/LatteIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/LatteIngredientFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/Milk.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/Syrup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/Syrup.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/VanillaSyrup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/VanillaSyrup.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/WholeMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment1/WholeMilk.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -61,7 +84,7 @@
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "git-widget-placeholder": "main",
+     "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "/Users/mansurserikov/AITU/javaProject/SDP_serikov/src",
++    "last_opened_file_path": "/Users/mansurserikov/AITU/javaProject/SDP_serikov/src/main/Assignment2",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+@@ -76,11 +99,23 @@
+ }]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/src/main/Assignment2" />
++      <recent name="$PROJECT_DIR$/src/main/Assignment2/Proxy" />
++      <recent name="$PROJECT_DIR$/src/main/Assignment2/Facade" />
++      <recent name="$PROJECT_DIR$/src/main/Assignment2/Decorator" />
++      <recent name="$PROJECT_DIR$/src/main/Assignment2/Composite" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/src/main/java" />
++      <recent name="$PROJECT_DIR$/src/main" />
+       <recent name="$PROJECT_DIR$/src" />
+     </key>
+     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+       <recent name="" />
+     </key>
++    <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="Assignment2.Adapter" />
++    </key>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -99,7 +134,10 @@
+       <updated>1726654480243</updated>
+       <workItem from="1726654481544" duration="1718000" />
+       <workItem from="1727523142427" duration="947000" />
+-      <workItem from="1727787345105" duration="5728000" />
++      <workItem from="1727787345105" duration="5911000" />
++      <workItem from="1727854704595" duration="478000" />
++      <workItem from="1727957361299" duration="23000" />
++      <workItem from="1728231174448" duration="1869000" />
+     </task>
+     <task id="LOCAL-00001" summary="test1">
+       <option name="closed" value="true" />
+@@ -117,7 +155,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1727803770813</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="добавил комменты">
++      <option name="closed" value="true" />
++      <created>1727805414246</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1727805414246</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -126,6 +172,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test1" />
+     <MESSAGE value="assignment 1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="assignment 1" />
++    <MESSAGE value="добавил комменты" />
++    <option name="LAST_COMMIT_MESSAGE" value="добавил комменты" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/main/java/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\n    public static void main(String[] args) {\n        CoffeeShop coffeeShop = CoffeeShop.getInstance();\n\n        CoffeeFactory coffeeFactory = new CoffeeFactory();\n        Coffee espresso = coffeeFactory.createCoffee(\"Espresso\");\n        espresso.prepare();\n\n        IngredientFactory latteFactory = new LatteIngredientFactory();\n        Milk milk = latteFactory.createMilk();\n        Syrup syrup = latteFactory.createSyrup();\n\n        CoffeeOrder order1 = new CoffeeOrder(espresso, milk, syrup);\n        order1.displayOrder();\n\n        CoffeeOrder order2 = order1.clone();\n        order2.displayOrder();\n\n        CoffeeBuilder builder = new CoffeeBuilder();\n        CoffeeOrder customOrder = builder.setCoffee(espresso).setMilk(new AlmondMilk()).setSyrup(new VanillaSyrup()).build();\n        customOrder.displayOrder();\n\n        coffeeShop.takeOrder(customOrder.getCoffee());\n    }\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Main.java b/src/main/java/Main.java
+--- a/src/main/java/Main.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Main.java	(date 1728233048050)
+@@ -1,25 +1,71 @@
++import Assignment2.*;
++import Assignment2.Adapter.*;
++import Assignment2.Bridge.*;
++import Assignment2.Composite.*;
++import Assignment2.Decorator.*;
++import Assignment2.Facade.*;
++import Assignment2.Flyweight.*;
++import Assignment2.Proxy.*;
++
++
+ public class Main {
+     public static void main(String[] args) {
+-        CoffeeShop coffeeShop = CoffeeShop.getInstance();
++
++//        Assignment1.CoffeeShop coffeeShop = Assignment1.CoffeeShop.getInstance();
++//
++//        CoffeeFactory coffeeFactory = new CoffeeFactory();
++//        Coffee espresso = coffeeFactory.createCoffee("Espresso");
++//        espresso.prepare();
++//
++//        IngredientFactory latteFactory = new LatteIngredientFactory();
++//        Milk milk = latteFactory.createMilk();
++//        Syrup syrup = latteFactory.createSyrup();
++//
++//        Assignment1.CoffeeOrder order1 = new Assignment1.CoffeeOrder(espresso, milk, syrup);
++//        order1.displayOrder();
++//
++//        Assignment1.CoffeeOrder order2 = order1.clone();
++//        order2.displayOrder();
++//
++//        CoffeeBuilder builder = new CoffeeBuilder();
++//        Assignment1.CoffeeOrder customOrder = builder.setCoffee(espresso).setMilk(new AlmondMilk()).setSyrup(new VanillaSyrup()).build();
++//        customOrder.displayOrder();
++//
++//        coffeeShop.takeOrder(customOrder.getCoffee());
++//        DocumentFacade facade = new DocumentFacade();
+ 
+-        CoffeeFactory coffeeFactory = new CoffeeFactory();
+-        Coffee espresso = coffeeFactory.createCoffee("Espresso");
+-        espresso.prepare();
++        DocumentFacade facade = new DocumentFacade();
+ 
+-        IngredientFactory latteFactory = new LatteIngredientFactory();
+-        Milk milk = latteFactory.createMilk();
+-        Syrup syrup = latteFactory.createSyrup();
++        // 1. Использование Proxy для ленивой загрузки
++        System.out.println("1. Ленивая загрузка документов:");
++        facade.displayDocument("Report");
+ 
+-        CoffeeOrder order1 = new CoffeeOrder(espresso, milk, syrup);
+-        order1.displayOrder();
++        // 2. Использование декоратора для добавления водяного знака
++        System.out.println("\n2. Добавление водяного знака:");
++        facade.displayDocumentWithWatermark("Report");
+ 
+-        CoffeeOrder order2 = order1.clone();
+-        order2.displayOrder();
++        // 3. Использование Flyweight для повторного использования документа
++        System.out.println("\n3. Повторное использование документа:");
++        facade.displayDocument("Report");
+ 
+-        CoffeeBuilder builder = new CoffeeBuilder();
+-        CoffeeOrder customOrder = builder.setCoffee(espresso).setMilk(new AlmondMilk()).setSyrup(new VanillaSyrup()).build();
+-        customOrder.displayOrder();
++        // 4. Использование Composite для работы с группой документов
++        System.out.println("\n4. Работа с группами документов:");
++        DocumentGroup group = new DocumentGroup();
++        group.addDocument(DocumentFactory.getDocument("Report"));
++        group.addDocument(DocumentFactory.getDocument("Presentation"));
++        group.display();
+ 
+-        coffeeShop.takeOrder(customOrder.getCoffee());
++        // 5. Использование Adapter для работы с PDF
++        System.out.println("\n5. Работа с PDF документами через Adapter:");
++        Document pdfDocument = (Document) new PDFDocumentAdapter("document.pdf");
++        pdfDocument.display();
++
++        // 6. Использование Bridge для рендеринга
++        System.out.println("\n6. Рендеринг документа через движок:");
++        RenderEngine simpleEngine = new SimpleRenderEngine();
++        facade.renderDocument("Report", simpleEngine);
++
++        RenderEngine highlightEngine = new HighlightRenderEngine();
++        facade.renderDocument("Report", highlightEngine);
+     }
+ }
+\ No newline at end of file
+Index: src/main/java/Assignment2/Bridge/HighlightRenderEngine.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Bridge/HighlightRenderEngine.java b/src/main/java/Assignment2/Bridge/HighlightRenderEngine.java
+new file mode 100644
+--- /dev/null	(date 1727680231000)
++++ b/src/main/java/Assignment2/Bridge/HighlightRenderEngine.java	(date 1727680231000)
+@@ -0,0 +1,11 @@
++package Assignment2.Bridge;
++
++// Реализация рендеринга документа с выделением текста
++public class HighlightRenderEngine implements RenderEngine {
++    @Override
++    public void render(String content) {
++
++        System.out.println("Rendering document with highlighted text: " + content);
++    }
++}
++
+Index: src/main/java/Assignment2/Decorator/WatermarkDecorator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Decorator/WatermarkDecorator.java b/src/main/java/Assignment2/Decorator/WatermarkDecorator.java
+new file mode 100644
+--- /dev/null	(date 1727957883000)
++++ b/src/main/java/Assignment2/Decorator/WatermarkDecorator.java	(date 1727957883000)
+@@ -0,0 +1,17 @@
++package Assignment2.Decorator;
++
++import Assignment2.Document;
++
++// Декоратор для добавления водяного знака к документу
++public class WatermarkDecorator extends DocumentDecorator {
++    public WatermarkDecorator(Document decoratedDocument) {
++        super(decoratedDocument);
++    }
++
++    // Задача: Реализуйте логику, которая сначала отображает документ, а затем добавляет к нему водяной знак.
++    public void display(){
++        decoratedDocument.display();
++        System.out.println("**Decorator**");
++    }
++}
++
+Index: src/main/java/Assignment2/Flyweight/DocumentFactory.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Flyweight/DocumentFactory.java b/src/main/java/Assignment2/Flyweight/DocumentFactory.java
+new file mode 100644
+--- /dev/null	(date 1728050251000)
++++ b/src/main/java/Assignment2/Flyweight/DocumentFactory.java	(date 1728050251000)
+@@ -0,0 +1,25 @@
++package Assignment2.Flyweight;
++
++import Assignment2.Document;
++import Assignment2.RealDocument;
++
++import java.util.HashMap;
++import java.util.Map;
++
++// Фабрика для создания и переиспользования документов
++public class DocumentFactory {
++    private static final Map<String, Document> documentMap = new HashMap<>();
++
++    // Задача: Реализуйте фабрику, которая будет хранить и переиспользовать документы,
++    // чтобы не создавать их повторно для одного и того же заголовка.
++    public static Document getDocument(String docName) {
++        if (documentMap.containsKey(docName)) {
++            return documentMap.get(docName);
++        } else {
++            Document document = new RealDocument(docName);
++            documentMap.put(docName, document);
++        }
++        return documentMap.get(docName);
++    }
++}
++
+Index: src/main/java/Assignment2/Adapter/PDFDocument.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Adapter/PDFDocument.java b/src/main/java/Assignment2/Adapter/PDFDocument.java
+new file mode 100644
+--- /dev/null	(date 1727679896000)
++++ b/src/main/java/Assignment2/Adapter/PDFDocument.java	(date 1727679896000)
+@@ -0,0 +1,19 @@
++package Assignment2.Adapter;
++
++// Представляет сторонний формат PDF документа
++public class PDFDocument {
++    private String fileName;
++
++    public PDFDocument(String fileName) {
++        this.fileName = fileName;
++    }
++
++    public void openPDF() {
++        System.out.println("Opening PDF document: " + fileName);
++    }
++
++    public void showPDF() {
++        System.out.println("Displaying PDF content: " + fileName);
++    }
++}
++
+Index: src/main/java/Assignment2/Bridge/SimpleRenderEngine.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Bridge/SimpleRenderEngine.java b/src/main/java/Assignment2/Bridge/SimpleRenderEngine.java
+new file mode 100644
+--- /dev/null	(date 1727680231000)
++++ b/src/main/java/Assignment2/Bridge/SimpleRenderEngine.java	(date 1727680231000)
+@@ -0,0 +1,10 @@
++package Assignment2.Bridge;
++
++// Реализация простого рендеринга документа
++public class SimpleRenderEngine implements RenderEngine {
++    @Override
++    public void render(String content) {
++        System.out.println("Rendering document in simple mode: " + content);
++    }
++}
++
+Index: src/main/java/Assignment2/Adapter/PDFDocumentAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Adapter/PDFDocumentAdapter.java b/src/main/java/Assignment2/Adapter/PDFDocumentAdapter.java
+new file mode 100644
+--- /dev/null	(date 1728220654522)
++++ b/src/main/java/Assignment2/Adapter/PDFDocumentAdapter.java	(date 1728220654522)
+@@ -0,0 +1,20 @@
++package Assignment2.Adapter;
++
++import Assignment2.Document;
++
++// Адаптер для интеграции PDF документа
++public class PDFDocumentAdapter implements Document {
++    private PDFDocument pdfDocument;
++
++    public PDFDocumentAdapter(String fileName) {
++        this.pdfDocument = new PDFDocument(fileName);
++    }
++
++    //Задача: Реализуйте логику для адаптера, чтобы методы PDF-документа могли быть использованы через интерфейс Document.
++
++    public void display(){
++        pdfDocument.openPDF();
++        pdfDocument.showPDF();
++    }
++}
++
+Index: src/main/java/Assignment2/Decorator/DocumentDecorator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Decorator/DocumentDecorator.java b/src/main/java/Assignment2/Decorator/DocumentDecorator.java
+new file mode 100644
+--- /dev/null	(date 1727680231000)
++++ b/src/main/java/Assignment2/Decorator/DocumentDecorator.java	(date 1727680231000)
+@@ -0,0 +1,18 @@
++package Assignment2.Decorator;
++
++import Assignment2.Document;
++
++// Абстрактный декоратор для добавления функциональности документам
++public abstract class DocumentDecorator implements Document {
++    protected Document decoratedDocument;
++
++    public DocumentDecorator(Document decoratedDocument) {
++        this.decoratedDocument = decoratedDocument;
++    }
++
++    @Override
++    public void display() {
++        decoratedDocument.display();
++    }
++}
++
+Index: src/main/java/Assignment2/Bridge/SimpleDocumentRenderer.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Bridge/SimpleDocumentRenderer.java b/src/main/java/Assignment2/Bridge/SimpleDocumentRenderer.java
+new file mode 100644
+--- /dev/null	(date 1728215386537)
++++ b/src/main/java/Assignment2/Bridge/SimpleDocumentRenderer.java	(date 1728215386537)
+@@ -0,0 +1,16 @@
++package Assignment2.Bridge;
++
++// ЗАДАНИЕ: Реализовать рендеринг документа через выбранный движок
++public class SimpleDocumentRenderer extends DocumentRenderer {
++    public SimpleDocumentRenderer(RenderEngine engine) {
++        super(engine);
++    }
++
++    //Задача: Реализуйте вызов метода рендеринга документа через переданный движок
++    //(например, SimpleRenderEngine или HighlightRenderEngine).
++    public void render(String content) {
++        engine.render(content);
++    }
++
++}
++
+Index: src/main/java/Assignment2/Proxy/ProxyDocument.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Proxy/ProxyDocument.java b/src/main/java/Assignment2/Proxy/ProxyDocument.java
+new file mode 100644
+--- /dev/null	(date 1728215745451)
++++ b/src/main/java/Assignment2/Proxy/ProxyDocument.java	(date 1728215745451)
+@@ -0,0 +1,28 @@
++package Assignment2.Proxy;
++
++import Assignment2.Document;
++import Assignment2.RealDocument;
++
++// Proxy для ленивой загрузки документа
++public class ProxyDocument implements Document {
++    private RealDocument realDocument;
++    private String title;
++
++    public ProxyDocument(String title) {
++        this.title = title;
++    }
++
++    // Задача: Вам нужно реализовать логику для создания документа только при первом обращении к методу display().
++    // Если документ уже был загружен, он не должен загружаться заново.
++    public void display(){
++        if (realDocument == null){
++            System.out.println("Creating document");
++            realDocument = new RealDocument(title);
++            realDocument.display();
++        }
++        else {
++            realDocument.display();
++        }
++    }
++}
++
+Index: src/main/java/Assignment2/Facade/DocumentFacade.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Facade/DocumentFacade.java b/src/main/java/Assignment2/Facade/DocumentFacade.java
+new file mode 100644
+--- /dev/null	(date 1728050251000)
++++ b/src/main/java/Assignment2/Facade/DocumentFacade.java	(date 1728050251000)
+@@ -0,0 +1,41 @@
++package Assignment2.Facade;
++import Assignment2.Bridge.RenderEngine;
++import Assignment2.Decorator.WatermarkDecorator;
++import Assignment2.Document;
++import Assignment2.Flyweight.DocumentFactory;
++
++// Фасад для работы с документами
++public class DocumentFacade {
++    //Задачи:
++    //Метод для отображения документа:
++    //Используйте фабрику документов, чтобы получить документ по заданному заголовку.
++    //Вызовите метод для отображения документа.
++
++    private Document getFromFactory(String filename){
++        return DocumentFactory.getDocument(filename);
++    }
++
++    public void displayDocument(String filename) {
++        System.out.println("Document info:\nTitle:" + filename + "\nDocument: ");
++        getFromFactory(filename).display();
++    }
++
++    //Метод для отображения документа с водяным знаком:
++    //Получите документ по заголовку с помощью фабрики документов.
++    //Оберните полученный документ декоратором, который добавляет водяной знак.
++    //Вызовите метод для отображения обёрнутого документа.
++
++    public void displayDocumentWithWatermark(String filename){
++        WatermarkDecorator docToDecorate = new WatermarkDecorator(DocumentFactory.getDocument(filename));
++        docToDecorate.display();
++    }
++
++    //Метод для рендеринга документа:
++    //Создайте объект рендерера, передав в конструктор выбранный движок рендеринга.
++    //Вызовите метод рендеринга в рендерере для заданного документа.
++    public void renderDocument(String filename, RenderEngine engine) {
++        engine.render(filename);
++    }
++
++}
++
+Index: src/main/java/Assignment2/Composite/DocumentGroup.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Composite/DocumentGroup.java b/src/main/java/Assignment2/Composite/DocumentGroup.java
+new file mode 100644
+--- /dev/null	(date 1728221070251)
++++ b/src/main/java/Assignment2/Composite/DocumentGroup.java	(date 1728221070251)
+@@ -0,0 +1,28 @@
++package Assignment2.Composite;
++
++import Assignment2.Document;
++
++import java.util.ArrayList;
++import java.util.List;
++
++// Класс для работы с группами документов (категориями)
++public class DocumentGroup implements Document {
++    private List<Document> documents = new ArrayList<>();
++
++    // Задача: Реализуйте методы для добавления и удаления документов из группы,
++    // а также отображение всех документов в группе через метод display().
++    public void display() {
++        for (Document doc : documents) {
++            doc.display();
++        }
++    }
++
++    public void addDocument(Document document){
++        documents.add(document);
++    }
++
++    public void removeDocument(Document document){
++        documents.remove(document);
++    }
++}
++
+Index: src/main/java/Assignment2/Bridge/DocumentRenderer.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Bridge/DocumentRenderer.java b/src/main/java/Assignment2/Bridge/DocumentRenderer.java
+new file mode 100644
+--- /dev/null	(date 1727680254000)
++++ b/src/main/java/Assignment2/Bridge/DocumentRenderer.java	(date 1727680254000)
+@@ -0,0 +1,13 @@
++package Assignment2.Bridge;
++
++// Класс для связи документа с движком рендеринга
++public abstract class DocumentRenderer {
++    protected RenderEngine engine;
++
++    public DocumentRenderer(RenderEngine engine) {
++        this.engine = engine;
++    }
++
++    public abstract void render(String content);
++}
++
+Index: src/main/java/Assignment2/RealDocument.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/RealDocument.java b/src/main/java/Assignment2/RealDocument.java
+new file mode 100644
+--- /dev/null	(date 1727937600000)
++++ b/src/main/java/Assignment2/RealDocument.java	(date 1727937600000)
+@@ -0,0 +1,23 @@
++package Assignment2;
++
++// Реальный документ, который требует загрузки
++public class RealDocument implements Document {
++    private String title;
++
++    public RealDocument(String title) {
++        this.title = title;
++        loadFromDisk();
++    }
++
++    private void loadFromDisk() {
++        // Задача: Вывести сообщение о загрузке документа
++        System.out.println("Loading RealDocument...");
++    }
++
++    @Override
++    public void display() {
++        // Задача: Вывести сообщение об отображении документа
++        System.out.println("Displaying document " + title);
++    }
++}
++
+Index: src/main/java/Assignment2/Document.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Document.java b/src/main/java/Assignment2/Document.java
+new file mode 100644
+--- /dev/null	(date 1727678711000)
++++ b/src/main/java/Assignment2/Document.java	(date 1727678711000)
+@@ -0,0 +1,7 @@
++package Assignment2;
++
++// Интерфейс документа
++public interface Document {
++    void display();
++}
++
+Index: src/main/java/CoffeeShop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CoffeeShop.java b/src/main/java/Assignment1/CoffeeShop.java
+rename from src/main/java/CoffeeShop.java
+rename to src/main/java/Assignment1/CoffeeShop.java
+--- a/src/main/java/CoffeeShop.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/CoffeeShop.java	(date 1728233048046)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ //здесь юзаю паттерн одиночку
+ public class CoffeeShop {
+     private static CoffeeShop instance;
+Index: src/main/java/Espresso.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Espresso.java b/src/main/java/Assignment1/Espresso.java
+rename from src/main/java/Espresso.java
+rename to src/main/java/Assignment1/Espresso.java
+--- a/src/main/java/Espresso.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/Espresso.java	(date 1728233048028)
+@@ -1,10 +1,12 @@
++package Assignment1;
++
+ class Espresso extends Coffee {
+     public Espresso() {
+-        this.name = "Espresso";
++        this.name = "Assignment1.Espresso";
+     }
+ 
+     @Override
+     public void prepare() {
+-        System.out.println("Preparing an Espresso...");
++        System.out.println("Preparing an Assignment1.Espresso...");
+     }
+ }
+\ No newline at end of file
+Index: src/main/java/Coffee.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Coffee.java b/src/main/java/Assignment1/Coffee.java
+rename from src/main/java/Coffee.java
+rename to src/main/java/Assignment1/Coffee.java
+--- a/src/main/java/Coffee.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/Coffee.java	(date 1728233048042)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ // здесь используется фабричный метод
+ abstract class Coffee {
+     protected String name;
+Index: src/main/java/CoffeeFactory.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CoffeeFactory.java b/src/main/java/Assignment1/CoffeeFactory.java
+rename from src/main/java/CoffeeFactory.java
+rename to src/main/java/Assignment1/CoffeeFactory.java
+--- a/src/main/java/CoffeeFactory.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/CoffeeFactory.java	(date 1728233048034)
+@@ -1,9 +1,11 @@
++package Assignment1;
++
+ class CoffeeFactory {
+     public Coffee createCoffee(String type) {
+         switch (type) {
+-            case "Espresso":
++            case "Assignment1.Espresso":
+                 return new Espresso();
+-            case "Latte":
++            case "Assignment1.Latte":
+                 return new Latte();
+             default:
+                 throw new IllegalArgumentException("Unknown coffee type.");
+Index: src/main/java/Latte.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Latte.java b/src/main/java/Assignment1/Latte.java
+rename from src/main/java/Latte.java
+rename to src/main/java/Assignment1/Latte.java
+--- a/src/main/java/Latte.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/Latte.java	(date 1728233048037)
+@@ -1,10 +1,12 @@
++package Assignment1;
++
+ class Latte extends Coffee {
+     public Latte() {
+-        this.name = "Latte";
++        this.name = "Assignment1.Latte";
+     }
+ 
+     @Override
+     public void prepare() {
+-        System.out.println("Preparing a Latte...");
++        System.out.println("Preparing a Assignment1.Latte...");
+     }
+ }
+\ No newline at end of file
+Index: src/main/java/WholeMilk.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/WholeMilk.java b/src/main/java/Assignment1/WholeMilk.java
+rename from src/main/java/WholeMilk.java
+rename to src/main/java/Assignment1/WholeMilk.java
+--- a/src/main/java/WholeMilk.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/WholeMilk.java	(date 1728233048044)
+@@ -1,5 +1,7 @@
++package Assignment1;
++
+ class WholeMilk implements Milk {
+     public String getType() {
+-        return "Whole Milk";
++        return "Whole Assignment1.Milk";
+     }
+ }
+\ No newline at end of file
+Index: src/main/java/Milk.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Milk.java b/src/main/java/Assignment1/Milk.java
+rename from src/main/java/Milk.java
+rename to src/main/java/Assignment1/Milk.java
+--- a/src/main/java/Milk.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/Milk.java	(date 1728233048030)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ //абстрактная фабрика
+ interface Milk {
+     String getType();
+Index: src/main/java/Syrup.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Syrup.java b/src/main/java/Assignment1/Syrup.java
+rename from src/main/java/Syrup.java
+rename to src/main/java/Assignment1/Syrup.java
+--- a/src/main/java/Syrup.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/Syrup.java	(date 1728233048032)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ //абстрактная фабрика
+ interface Syrup {
+     String getFlavor();
+Index: src/main/java/AlmondMilk.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/AlmondMilk.java b/src/main/java/Assignment1/AlmondMilk.java
+rename from src/main/java/AlmondMilk.java
+rename to src/main/java/Assignment1/AlmondMilk.java
+--- a/src/main/java/AlmondMilk.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/AlmondMilk.java	(date 1728233048036)
+@@ -1,5 +1,8 @@
++package Assignment1;
++
+ class AlmondMilk implements Milk {
+     public String getType() {
+-        return "Almond Milk";
++        return "Almond Assignment1.Milk";
+     }
+-}
+\ No newline at end of file
++}
++
+Index: src/main/java/IngredientFactory.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/IngredientFactory.java b/src/main/java/Assignment1/IngredientFactory.java
+rename from src/main/java/IngredientFactory.java
+rename to src/main/java/Assignment1/IngredientFactory.java
+--- a/src/main/java/IngredientFactory.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/IngredientFactory.java	(date 1728233048052)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ //абстрактная фабрика
+ interface IngredientFactory {
+     Milk createMilk();
+Index: src/main/java/VanillaSyrup.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/VanillaSyrup.java b/src/main/java/Assignment1/VanillaSyrup.java
+rename from src/main/java/VanillaSyrup.java
+rename to src/main/java/Assignment1/VanillaSyrup.java
+--- a/src/main/java/VanillaSyrup.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/VanillaSyrup.java	(date 1728233048054)
+@@ -1,5 +1,7 @@
++package Assignment1;
++
+ class VanillaSyrup implements Syrup {
+     public String getFlavor() {
+-        return "Vanilla Syrup";
++        return "Vanilla Assignment1.Syrup";
+     }
+ }
+\ No newline at end of file
+Index: src/main/java/CoffeeOrder.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CoffeeOrder.java b/src/main/java/Assignment1/CoffeeOrder.java
+rename from src/main/java/CoffeeOrder.java
+rename to src/main/java/Assignment1/CoffeeOrder.java
+--- a/src/main/java/CoffeeOrder.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/CoffeeOrder.java	(date 1728233048048)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ // юзаем прототип для клонирования обьекта
+ public class CoffeeOrder implements Cloneable {
+     private Coffee coffee;
+@@ -20,7 +22,7 @@
+     }
+ 
+     public void displayOrder() {
+-        System.out.println("Coffee: " + coffee.getName() + ", Milk: " + milk.getType() + ", Syrup: " + syrup.getFlavor());
++        System.out.println("Assignment1.Coffee: " + coffee.getName() + ", Assignment1.Milk: " + milk.getType() + ", Assignment1.Syrup: " + syrup.getFlavor());
+     }
+ 
+     public Coffee getCoffee() {
+Index: src/main/java/LatteIngredientFactory.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/LatteIngredientFactory.java b/src/main/java/Assignment1/LatteIngredientFactory.java
+rename from src/main/java/LatteIngredientFactory.java
+rename to src/main/java/Assignment1/LatteIngredientFactory.java
+--- a/src/main/java/LatteIngredientFactory.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/LatteIngredientFactory.java	(date 1728233048039)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ class LatteIngredientFactory implements IngredientFactory {
+     @Override
+     public Milk createMilk() {
+Index: src/main/java/CoffeeBuilder.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CoffeeBuilder.java b/src/main/java/Assignment1/CoffeeBuilder.java
+rename from src/main/java/CoffeeBuilder.java
+rename to src/main/java/Assignment1/CoffeeBuilder.java
+--- a/src/main/java/CoffeeBuilder.java	(revision 1b1c697be201d6a2be2d33976a382e6996dac80e)
++++ b/src/main/java/Assignment1/CoffeeBuilder.java	(date 1728233048025)
+@@ -1,3 +1,5 @@
++package Assignment1;
++
+ //используется паттерн: "Строитель"
+ class CoffeeBuilder {
+     private Coffee coffee;
+Index: src/main/java/Assignment2/Bridge/RenderEngine.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Assignment2/Bridge/RenderEngine.java b/src/main/java/Assignment2/Bridge/RenderEngine.java
+new file mode 100644
+--- /dev/null	(date 1727680231000)
++++ b/src/main/java/Assignment2/Bridge/RenderEngine.java	(date 1727680231000)
+@@ -0,0 +1,8 @@
++package Assignment2.Bridge;
++
++// Интерфейс для рендеринга документов
++public interface RenderEngine {
++
++    void render(String content);
++}
++
