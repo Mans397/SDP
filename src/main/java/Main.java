@@ -109,14 +109,14 @@ public class Main {
 
         //Iterator
         ListMovieCollection listCollection = new ListMovieCollection();
-        listCollection  .addMovie("Inception")
-                .addMovie("The Matrix")
-                .addMovie("Interstellar");
+        listCollection  .addMovie("Avengers")
+                .addMovie("Iron man")
+                .addMovie("Thor");
 
         ArrayMovieCollection arrayCollection = new ArrayMovieCollection(3);
-        arrayCollection .addMovie("The Godfather")
-                .addMovie("Pulp Fiction")
-                .addMovie("The Dark Knight");
+        arrayCollection .addMovie("Matrix")
+                .addMovie("Inside out")
+                .addMovie("Spider-man");
 
         Iterator<String> listIterator = listCollection.createIterator();
         System.out.println("Movies from List:");
