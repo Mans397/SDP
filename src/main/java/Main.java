@@ -75,11 +75,15 @@ public class Main {
 //        facade.renderDocument("Report", highlightEngine);
 
         // Chain
-        PaymentHandler paymentMethods = new PaymentA();
-        paymentMethods  .setNext(new PaymentB())
-                .setNext(new PaymentC());
+        PaymentHandler paymentA = new PaymentA();
+        PaymentHandler paymentB = new PaymentB();
+        PaymentHandler paymentC = new PaymentC();
 
-        paymentMethods.handle(210);
+        //Creating chain
+        paymentA.setNext(paymentB).setNext(paymentC);
+
+        //Starting the chain
+        paymentA.handle(210);
 
         System.out.println();
         //Command

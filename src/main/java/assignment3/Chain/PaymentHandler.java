@@ -6,7 +6,7 @@ public abstract class PaymentHandler {
     // Метод для установки следующего обработчика в цепочке
     public PaymentHandler setNext(PaymentHandler nextHandler) {
         this.next = nextHandler;  // Устанавливаем следующий обработчик
-        return this;  // Возвращаем текущий объект для удобства использования в цепочке вызовов
+        return next;  // Возвращаем текущий объект для удобства использования в цепочке вызовов
     }
 
     // Абстрактный метод для обработки платежа
