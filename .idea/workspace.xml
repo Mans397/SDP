@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd282760-06e3-415d-a52c-d0befb4c183a" name="Changes" comment="Added Assignment2">
+    <list default="true" id="dd282760-06e3-415d-a52c-d0befb4c183a" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/NewsPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/NewsPublisherImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/NewsSubscriberLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/NewsSubscriberSmartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/NewsSubscriberTablet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/State/PausedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/State/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/State/PlayerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/State/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/State/StoppedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Strategy/CardPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Strategy/CashOnDeliveryStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Strategy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Strategy/WalletPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/TemplateMethod/ElectronicsQualityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/TemplateMethod/FoodQualityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/TemplateMethod/QualityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/AntivirusVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/ExecutableFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/ReportVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment4/Visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_10_2024,_22_46_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_10_2024__22_46__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
@@ -16,6 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,7 +70,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2mEvJWMEtTXOIvybFQXvtaGO6Q1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -110,7 +141,10 @@
       <workItem from="1727854704595" duration="478000" />
       <workItem from="1727957361299" duration="23000" />
       <workItem from="1728231174448" duration="2780000" />
-      <workItem from="1728836164426" duration="3641000" />
+      <workItem from="1728836164426" duration="3951000" />
+      <workItem from="1728974526327" duration="107000" />
+      <workItem from="1729069806843" duration="4293000" />
+      <workItem from="1729425403445" duration="5391000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -152,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728233262501</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix">
+      <option name="closed" value="true" />
+      <created>1729070637389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729070637389</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix">
+      <option name="closed" value="true" />
+      <created>1729071262467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729071262467</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +214,7 @@
     <MESSAGE value="добавил комменты" />
     <MESSAGE value="Added second Assignment" />
     <MESSAGE value="Added Assignment2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Assignment2" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
